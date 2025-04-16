@@ -1,0 +1,15 @@
+注意，软件改过名字，对应关系如下：
+1，《微信聊天记录挖掘机》就是《聊天记录永久备份与打印助手》
+2，《微信通讯录抽水机》就是《微信通讯录好友导出与备份助手》
+
+双击相应的图标使用即可。
+
+该软件是个人开发的，经常被杀毒软件报毒，添加白名单即可，添加方法可查看以下链接：
+https://doc.tcxwg.com/?g=Doc&m=Article&a=index&id=3&aid=685138213894881280
+https://doc.tcxwg.com/?g=Doc&m=Article&a=index&id=3&aid=685138701059096576
+
+遇到任何问题，请点击以下链接联系售前售后解决：
+https://www.tcxwg.com/index.php/company/
+
+本软件最全使用说明书：
+https://doc.tcxwg.com/?g=Doc&m=Article&a=index&id=3

@@ -1,0 +1,9 @@
+from llamafactory.train.tuner import run_exp
+from template import template_register
+from utils.config import load_config
+
+config = load_config(arg_type='train_sft')
+
+template_register()
+
+run_exp(config)
